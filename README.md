@@ -1,5 +1,5 @@
 ## Kill Chain Icons
-These are default kill chain icons that are common across intelligence products @ Monsanto. The icon names map as defined below:
+These are default kill chain icons. The icon names map as defined below:
 
 ### LMCO Kill Chain
 Recon = Search99 OR Magnifier12
